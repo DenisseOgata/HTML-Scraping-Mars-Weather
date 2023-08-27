@@ -35,16 +35,16 @@
   * How many Martian (and not Earth) days worth of data exist in the scraped dataset?
   * What are the coldest and the warmest months on Mars (at the location of Curiosity)
     
-    a) Find the average minimum daily temperature for all of the months.
-    b) Plot the results as a bar chart.
+    5.1 Find the average minimum daily temperature for all of the months.
+    5.2 Plot the results as a bar chart.
   * Which months have the lowest and the highest atmospheric pressure on Mars?
     
-    a) Find the average daily atmospheric pressure of all the months.
-    b) Plot the results as a bar chart.
+    5.3 Find the average daily atmospheric pressure of all the months.
+    5.4 Plot the results as a bar chart.
   * About how many terrestrial (Earth) days exist in a Martian year? 
   
-    a) Consider how many days elapse on Earth in the time that Mars circles the Sun once.
-    b) Visually estimate the result by plotting the daily minimum temperature.
+    5.5 Consider how many days elapse on Earth in the time that Mars circles the Sun once.
+    5.6 Visually estimate the result by plotting the daily minimum temperature.
     
   * Export the DataFrame to a CSV file.
 
